@@ -1,2 +1,2 @@
 # FirstReactSite
-First React Project along with First Tailwind Project
+This is my first site I have created using React and Tailwind, the ultamate goal was to use the backround of my educaation of html, JavaScript, and Css to make a small website that will use React. One challenge I set for myself was to use an outside file that exported an object in order to dynanically render a componet of 3 images that had certain data preset. The images are the same but the content such as the name, description, and ratings are all different.
